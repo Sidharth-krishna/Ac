@@ -18,7 +18,7 @@ function About() {
        <div class="container py-5" id="about">
     <div class="row g-5">
       <div class="col-6">
-        <img src={img1} alt="" style={{width:"40rem" , alignItems:"center"}} data-aos="fade-up-right" />
+        <img class="container-xxl-py-5" src={img1} alt="" style={{width:"40rem" , alignItems:"center"}} data-aos="fade-up-right" />
       </div>
       <div class="col-lg-6">
         <h4 class="title bg-white text-start text-primary pe-3" data-aos="fade-up"><u>ABOUT US</u></h4>

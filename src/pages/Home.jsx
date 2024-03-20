@@ -16,7 +16,7 @@ function Home() {
     Aos.init({duration:1000});
   },[])
   return (
-    <div>
+    <div class="container-xxl-py-5">
     <div>
       <section>
         <img

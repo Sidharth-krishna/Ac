@@ -8,7 +8,7 @@ function Reviews() {
     Aos.init({duration:1000});
   },[])
   return (
-    <div>
+    <div class="container-xxl-py-5">
 <section id="review">
                 <h1 class="text-center  text-dark mt-3" data-aos="fade-up"
      data-aos-duration="2000"  > What Our Cli<span className='text-primary'>ents Says...</span> </h1>

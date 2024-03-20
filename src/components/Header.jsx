@@ -6,14 +6,10 @@ import { Link } from "react-router-dom";
 
 function Header() {
   return (
-    <div>
+    <div class="container-xxl-py-5">
       
       
-        <div class="container text-center text-md-start mt-5">
-            
-            
-
-        </div>
+       
         <Navbar
       expand="lg"
       style={{ backgroundColor: "#33ccff", padding: "1.5rem" }}
@@ -66,8 +62,6 @@ function Header() {
               style={{ color: "white", paddingRight: "25px" }}
               href="#link"
             >
-              
-
             </Nav.Link>
             <Nav.Link
               style={{ color: "white", paddingRight: "25px" }}

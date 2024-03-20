@@ -11,7 +11,7 @@ function Services() {
     <div class="container-xxl-py-5" id="services">
       <div class="container">
         <div class="text">
-          <h5 class="service-title bg-white text-center text-dark px-3 fs-3 mt-5" data-aos="zoom-in-up"><u> SERV <span className='text-primary'>ICES</span> </u></h5>
+          <h5 class="service-title bg-white text-center text-dark px-3 fs-3 mt-5" data-aos="zoom-in-up"><u> SERV<span className='text-primary'>ICES</span> </u></h5>
         </div>
       </div>
       <div class="row g-4">

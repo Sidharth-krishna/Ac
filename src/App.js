@@ -38,9 +38,7 @@ function App() {
 
       </Routes>
      
-      <About/>
-      <Services/>
-      <Reviews/>
+      
       <Footer/>
       
       

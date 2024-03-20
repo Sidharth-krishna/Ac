@@ -21,7 +21,7 @@ theme: "dark",
  
 
   return (
-    <div>
+    <div class="container-xxl-py-5">
       <div style={{width:"100%", height:'750px',overflowX:'hidden'}} className='bg-dark'>
         <div className='d-flex justify-content-center align-items-center text-light'>
             <h3 className='mt-4'>Contact Us</h3>
